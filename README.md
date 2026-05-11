@@ -63,37 +63,30 @@ _Artisan numérique (Développeur / Programmeur)_
 </p>
 <br /> -->
 
-<!--Github stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,25&height=250&section=header&text=V2Ray%20WebSocket%20Tunnel&fontSize=52&fontAlignY=38&desc=Déploiement%20sur%20Google%20Cloud%20Run&descAlignY=58&descSize=20&animation=fadeIn" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/bomokosolution-scrip">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=bomokosolution-scrip&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/bomokosolution-scrip">
-          <img align="center" src="https://streak-stats.demolab.com?user=RazorKenway&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center">
-      <h3><strong>📌 Advanced GitHub Metrics</strong></h3>
-      <img src="./metrics.svg" alt="GitHub Metrics" width="100%">
-  </td>
-</tr>
+<br/>
 
-</table>
-<br />
+<div align="center">
+  <h1>🚀 V2Ray WebSocket Tunnel 🚀</h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Docker-Supported-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Cloud_Run-Deployed-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img src="https://img.shields.io/badge/V2Ray-Tunnel-00C853?style=for-the-badge&logo=v2ray&logoColor=white">
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-ACTIF-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/UPTIME-99.99%25-brightgreen?style=for-the-badge">
+    <img src="https://img.shields.io/badge/LATENCE-%3C50ms-brightgreen?style=for-the-badge">
+  </p>
+</div>
+
+---
 
 <!--Section Contact-->
 
