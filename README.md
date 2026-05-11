@@ -1,6 +1,6 @@
 <!--Banner-->
 
-![RazorKenway Banner Image](./banner.jpg)
+![Bomoko Banner Image](./banner.jpg)
 
 <p align="center">
   <a href="https://www.facebook.com/groups/277920623081269/?ref=share"><img title="Facebook Group" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
@@ -18,7 +18,7 @@
 
 <!--Header Name-->
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Razor Kenway!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Bomoko Solution!
 
 _Digital Craftsman (Developer / Programmer)_
 <br />
@@ -26,7 +26,7 @@ _Digital Craftsman (Developer / Programmer)_
 <!--Start Intro-->
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, PHP, React.js, Node.js, Express.js, Django, RDBMS, REST API. </p>
 
-- 💻 **Razor Kenway** - Passionate Developer & Content Creator
+- 💻 **Bomoko Solution** - Passionate Developer & Content Creator
 - 🌱 Currently Learning: Python, Shell, HTML, PHP, Java, JavaScript, CSS
 - 🤝 Collaborating with [SL Android](https://t.me/SL_Android)
 - 🎥 Tutorial Channel: [YouTube - SL Android](https://www.youtube.com/c/SLAndroid)
