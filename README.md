@@ -267,18 +267,8 @@ Légende : 🟢 = Optimal / Excellent &nbsp;&nbsp;|&nbsp;&nbsp; 🔵 = Scalable 
 
 <div align="center">
 
-### 🎯 RÉSUMÉ DES PERFORMANCES
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│  🏓 Ping .......... 23 ms     ████████████████████░░  │
-│  📊 Débit montant .. 850 Mbps  ██████████████████████  │
-│  📈 Débit descendant 920 Mbps  ██████████████████████  │
-│  🔄 Concurrents .... 10k+      ██████████████████████  │
-│  ⏱️ Temps réponse ... 45 ms     ████████████████████░░  │
-│  🛡️ Disponibilité .. 99.99%    ██████████████████████  │
-└─────────────────────────────────────────────────────────┘
 ---
+
 
 ## 📁 **FICHIERS INCLUS**
 
@@ -312,6 +302,9 @@ Légende : 🟢 = Optimal / Excellent &nbsp;&nbsp;|&nbsp;&nbsp; 🔵 = Scalable 
   }]
 }
 ```
+
+---
+
 
 <!--Section Contact-->
 
