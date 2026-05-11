@@ -94,3 +94,13 @@ _Artisan numérique (Développeur / Programmeur)_
 
 </table>
 <br />
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://buymeacoffee.com/razorkenway" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
