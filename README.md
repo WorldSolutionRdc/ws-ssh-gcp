@@ -25,7 +25,7 @@ _Artisan numérique (Développeur / Programmeur)_
 <!--Début Intro-->
 <p align="left">Je suis un développeur Full Stack et passionné d'apprentissage automatique avec un grand amour pour Python, PHP, React.js, Node.js, Express.js, Django, RDBMS, API REST.</p>
 
-- 💻 Razor Kenway - Développeur passionné & Créateur de contenu
+- 💻 Bomoko Solution - Développeur passionné & Créateur de contenu
 - 🌱 En apprentissage : Python, Shell, HTML, PHP, Java, JavaScript, CSS
 - 🤝 Collaboration avec SL Android (https://t.me/SL_Android)
 - 🎥 Chaîne tutoriels : YouTube - World Solution (https://www.youtube.com/@WorldSolution-c2b)
@@ -94,6 +94,37 @@ _Artisan numérique (Développeur / Programmeur)_
 
 </table>
 <br />
+
+<!--Contact Section-->
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="bomokosolution@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="bomokosolution@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<!-- <a href="https://x.com/the_bumzz____" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="the_bumzz____" style="margin-bottom: 5px;" />
+</a> -->
+
+<a href="https://www.instagram.com/the_bumzz____" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="the_bumzz____" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/bomokosolution-scrip" target="_blank">
+<img src="./github.png" width=50 height=50 alt="bomokosolution-scrip" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/bumindu-hettiarachchi" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<!-- <a href="https://dev.to/the_bumzz____" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="the_bumzz____" style="margin-bottom: 5px;" />
+</a> -->
+</div>
+<br/>
 
 <!--Buy me a coffee-->
 <div align="center">
