@@ -231,16 +231,15 @@ graph TD
 
 | Métrique | Valeur | Seuil | Statut |
 |:--------:|:------:|:-----:|:------:|
-| 🏓 Ping | 23 ms | <50 ms | !Optimal (https://img.shields.io/badge/🟢-OPTIMAL-success?style=flat-square) |
-| 📊 Débit montant | 850 Mbps | >500 Mbps | !Excellent (https://img.shields.io/badge/🟢-EXCELLENT-success?style=flat-square) |
-| 📈 Débit descendant | 920 Mbps | >500 Mbps | !Excellent (https://img.shields.io/badge/🟢-EXCELLENT-success?style=flat-square) |
-| 🔄 Concurrents | 10k+ | — | !Scalable (https://img.shields.io/badge/🔵-SCALABLE-informational?style=flat-square) |
-| ⏱️ Temps de réponse | 45 ms | <100 ms | !Rapide (https://img.shields.io/badge/🟢-RAPIDE-success?style=flat-square) |
-| 🛡️ Disponibilité | 99.99% | >99.9% | !Fiable (https://img.shields.io/badge/🟢-FIABLE-success?style=flat-square) |
+| 🏓 Ping | 23 ms | <50 ms | 🟢 OPTIMAL |
+| 📊 Débit montant | 850 Mbps | >500 Mbps | 🟢 EXCELLENT |
+| 📈 Débit descendant | 920 Mbps | >500 Mbps | 🟢 EXCELLENT |
+| 🔄 Concurrents | 10k+ | — | 🔵 SCALABLE |
+| ⏱️ Temps de réponse | 45 ms | <100 ms | 🟢 RAPIDE |
+| 🛡️ Disponibilité | 99.99% | >99.9% | 🟢 FIABLE |
 
 <br>
 
-<!-- Version alternative avec jauges visuelles -->
 <div align="center">
 
 ### 📈 JAUGES DE PERFORMANCE
@@ -260,10 +259,25 @@ graph TD
 
 <div align="center">
 
-| 🟢 = Optimal | 🔵 = Scalable | ⚡ = Performant |
-|:---:|:---:|:---:|
+Légende : 🟢 = Optimal / Excellent &nbsp;&nbsp;|&nbsp;&nbsp; 🔵 = Scalable &nbsp;&nbsp;|&nbsp;&nbsp; ✅ = Validé
 
 </div>
+
+<br>
+
+<div align="center">
+
+### 🎯 RÉSUMÉ DES PERFORMANCES
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│  🏓 Ping .......... 23 ms     ████████████████████░░  │
+│  📊 Débit montant .. 850 Mbps  ██████████████████████  │
+│  📈 Débit descendant 920 Mbps  ██████████████████████  │
+│  🔄 Concurrents .... 10k+      ██████████████████████  │
+│  ⏱️ Temps réponse ... 45 ms     ████████████████████░░  │
+│  🛡️ Disponibilité .. 99.99%    ██████████████████████  │
+└─────────────────────────────────────────────────────────┘
 ---
 
 ## 📁 **FICHIERS INCLUS**
