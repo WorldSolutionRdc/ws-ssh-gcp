@@ -66,52 +66,33 @@ _Artisan numérique (Développeur / Programmeur)_
 <br />
 <br />
 
-<!--Trophies Section-->
-<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/RazorKenway">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RazorKenway&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RazorKenway&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RazorKenway&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/RazorKenway/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br /> -->
+-------
+---
 
-<!--Badge de compteur de profil-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RazorKenway&label=Vues%20du%20profil&color=770677&style=for-the-badge&logo=star" alt="bomokosolution-scrip" style="padding-right:20px;" />
-</p>
+<!--Section Langages et Outils-->
+<h2 align="center">📚 Tᴇᴄʜ sᴛᴀᴄᴋ & Dᴇʀɴɪᴇʀs ᴀʀᴛɪᴄʟᴇs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Animation des compétences" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-<!--Trophies Section-->
-<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/bomokosolution-scrip">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=bomokosolution-scrip&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RazorKenway&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=bomokosolution-scrip&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/RazorKenway/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br /> -->
+<h3 align="left">📖 En cours d'apprentissage</h3>
+<ul align="left">
+  <li>🧠 Approfondissement de mes connaissances en Machine Learning et IA.</li>
+  <li>⚛️ Exploration des patterns avancés de React.js et des techniques de gestion d'état.</li>
+  <li>☁️ Amélioration de mes compétences en cloud computing avec AWS et Azure.</li>
+</ul>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+-------
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,25&height=250&section=header&text=V2Ray%20WebSocket%20Tunnel&fontSize=52&fontAlignY=38&desc=Déploiement%20sur%20Google%20Cloud%20Run&descAlignY=58&descSize=20&animation=fadeIn" />
