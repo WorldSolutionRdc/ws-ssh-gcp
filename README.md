@@ -32,12 +32,65 @@ _Artisan numérique (Développeur / Programmeur)_
 - 🧠 Exploration constante de nouvelles techniques de codage
 - 💬 Ouvert aux questions et suggestions
 - 🎓 Étudiant développeur
-- 📧 Email : service.slandro.official@gmail.com
+- 📧 Email : bomokosolution@gmail.com
 - 📱 Mon Telegram : @GodWinAdm (https://t.me/GodWinAdm)
 - 📢 Ma chaîne Telegram : worldsolutiontv (https://t.me/worldsolutiontv)
 <!--Fin Intro-->
 
 <!--Badge de compteur de profil-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RazorKenway&label=Vues%20du%20profil&color=770677&style=for-the-badge&logo=star" alt="RazorKenway" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=RazorKenway&label=Vues%20du%20profil&color=770677&style=for-the-badge&logo=star" alt="bomokosolution-scrip" style="padding-right:20px;" />
 </p>
+
+<!--Trophies Section-->
+<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/bomokosolution-scrip">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=bomokosolution-scrip&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RazorKenway&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=bomokosolution-scrip&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/RazorKenway/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br /> -->
+
+<!--Github stats Table-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/bomokosolution-scrip">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=bomokosolution-scrip&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/bomokosolution-scrip">
+          <img align="center" src="https://streak-stats.demolab.com?user=RazorKenway&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center">
+      <h3><strong>📌 Advanced GitHub Metrics</strong></h3>
+      <img src="./metrics.svg" alt="GitHub Metrics" width="100%">
+  </td>
+</tr>
+
+</table>
+<br />
