@@ -133,22 +133,52 @@ gcloud run deploy v2ray-tunnel \
 
 <br>
 
-## 🎨 **TABLEAU DES PERFORMANCES**
-
-<div align="center">
-  
-| Métrique | Valeur | Seuil | Statut |
-|:--------:|:------:|:-----:|:------:|
-| 🏓 **Ping** | 23ms | <50ms | 🟢 OPTIMAL |
-| 📊 **Débit montant** | 850 Mbps | >500 Mbps | 🟢 EXCELLENT |
-| 📈 **Débit descendant** | 920 Mbps | >500 Mbps | 🟢 EXCELLENT |
-| 🔄 **Concurrents** | 10,000+ | - | 🟢 SCALABLE |
-| ⏱️ **Temps de réponse** | 45ms | <100ms | 🟢 RAPIDE |
-| 🛡️ **Uptime** | 99.99% | >99.9% | 🟢 FIABLE |
+<table style="border-collapse: separate; border-spacing: 12px; background: transparent;">
+  <tr>
+    <td style="background: linear-gradient(135deg, #0a0e27, #0a0a1a); border-radius: 20px; padding: 20px 25px; text-align: center; box-shadow: 0 8px 20px rgba(0,0,0,0.3); backdrop-filter: blur(10px);">
+      <div style="font-size: 32px;">🏓</div>
+      <div style="font-weight: bold; color: #aaa; margin: 8px 0 4px;">PING</div>
+      <div style="font-size: 28px; font-weight: bold; color: #00E5FF;">23<span style="font-size: 14px;">ms</span></div>
+      <div style="color: #00C853; background: #00C85320; display: inline-block; padding: 4px 12px; border-radius: 20px; margin-top: 8px; font-size: 12px; font-weight: bold;">OPTIMAL</div>
+    </td>
+    <td style="background: linear-gradient(135deg, #0a0e27, #0a0a1a); border-radius: 20px; padding: 20px 25px; text-align: center; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <div style="font-size: 32px;">📊</div>
+      <div style="font-weight: bold; color: #aaa; margin: 8px 0 4px;">DÉBIT MONTANT</div>
+      <div style="font-size: 28px; font-weight: bold; color: #00E5FF;">850<span style="font-size: 14px;">Mbps</span></div>
+      <div style="color: #00C853; background: #00C85320; display: inline-block; padding: 4px 12px; border-radius: 20px; margin-top: 8px; font-size: 12px; font-weight: bold;">EXCELLENT</div>
+    </td>
+    <td style="background: linear-gradient(135deg, #0a0e27, #0a0a1a); border-radius: 20px; padding: 20px 25px; text-align: center; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <div style="font-size: 32px;">📈</div>
+      <div style="font-weight: bold; color: #aaa; margin: 8px 0 4px;">DÉBIT DESCENDANT</div>
+      <div style="font-size: 28px; font-weight: bold; color: #00E5FF;">920<span style="font-size: 14px;">Mbps</span></div>
+      <div style="color: #00C853; background: #00C85320; display: inline-block; padding: 4px 12px; border-radius: 20px; margin-top: 8px; font-size: 12px; font-weight: bold;">EXCELLENT</div>
+    </td>
+  </tr>
+  <tr>
+    <td style="background: linear-gradient(135deg, #0a0e27, #0a0a1a); border-radius: 20px; padding: 20px 25px; text-align: center; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <div style="font-size: 32px;">🔄</div>
+      <div style="font-weight: bold; color: #aaa; margin: 8px 0 4px;">CONCURRENTS</div>
+      <div style="font-size: 28px; font-weight: bold; color: #FFD700;">10k<span style="font-size: 14px;">+</span></div>
+      <div style="color: #2196F3; background: #2196F320; display: inline-block; padding: 4px 12px; border-radius: 20px; margin-top: 8px; font-size: 12px; font-weight: bold;">SCALABLE</div>
+    </td>
+    <td style="background: linear-gradient(135deg, #0a0e27, #0a0a1a); border-radius: 20px; padding: 20px 25px; text-align: center; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <div style="font-size: 32px;">⏱️</div>
+      <div style="font-weight: bold; color: #aaa; margin: 8px 0 4px;">TEMPS RÉPONSE</div>
+      <div style="font-size: 28px; font-weight: bold; color: #00E5FF;">45<span style="font-size: 14px;">ms</span></div>
+      <div style="color: #00C853; background: #00C85320; display: inline-block; padding: 4px 12px; border-radius: 20px; margin-top: 8px; font-size: 12px; font-weight: bold;">RAPIDE</div>
+    </td>
+    <td style="background: linear-gradient(135deg, #0a0e27, #0a0a1a); border-radius: 20px; padding: 20px 25px; text-align: center; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+      <div style="font-size: 32px;">🛡️</div>
+      <div style="font-weight: bold; color: #aaa; margin: 8px 0 4px;">UPTIME</div>
+      <div style="font-size: 28px; font-weight: bold; color: #00E5FF;">99.99<span style="font-size: 14px;">%</span></div>
+      <div style="color: #00C853; background: #00C85320; display: inline-block; padding: 4px 12px; border-radius: 20px; margin-top: 8px; font-size: 12px; font-weight: bold;">FIABLE</div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br>
+</details>
 
 ---
 
@@ -177,7 +207,6 @@ flowchart LR
 </div>
 
 <br>
-
 
 ---
 
