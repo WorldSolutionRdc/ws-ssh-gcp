@@ -95,12 +95,12 @@ _Artisan numérique (Développeur / Programmeur)_
 </table>
 <br />
 
-<!--Contact Section-->
+<!--Section Contact-->
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛᴇᴢ ᴀᴠᴇᴄ ᴍᴏɪ 🤝 </h2>
 <div align="center">
   
-<a href="bomokosolution@gmail.com" target="_blank">
+<a href="mailto:bomokosolution@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="bomokosolution@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
@@ -112,7 +112,7 @@ _Artisan numérique (Développeur / Programmeur)_
 <img src="./instagram.png" width=50 height=50 alt="the_bumzz____" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/bomokosolution-scrip" target="_blank">
+<a href="https://github.com/bomokosolution-scrip" target="_blank">
 <img src="./github.png" width=50 height=50 alt="bomokosolution-scrip" style="margin-bottom: 5px;" />
 </a>
 
@@ -126,12 +126,23 @@ _Artisan numérique (Développeur / Programmeur)_
 </div>
 <br/>
 
-<!--Buy me a coffee-->
+<!-- Bouton Binance au lieu de Buy Me a Coffee -->
 <div align="center">
-<a href="https://buymeacoffee.com/razorkenway" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+  <a href="https://www.binance.com" target="_blank">
+    <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=black" alt="Binance" style="height: 40px !important;width: auto !important;border-radius: 8px;">
+  </a>
 </div>
 
-<!--Footer-->
+<!--Alternative avec une image personnalisée si vous préférez-->
+<!--
+<div align="center">
+  <a href="https://www.binance.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Binance_Logo_%28black%29.svg/2560px-Binance_Logo_%28black%29.svg.png" alt="Binance" style="height: 40px !important;width: auto !important;">
+  </a>
+</div>
+-->
+
+<!--Pied de page-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
